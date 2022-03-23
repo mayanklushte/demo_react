@@ -4,3 +4,11 @@ set username github
 
 set email github
     git config --global user.email "MY_NAME@example.com"
+
+
+empty repository intialize
+
+    git init
+
+    git add .
+    git commit -m "first commit"
