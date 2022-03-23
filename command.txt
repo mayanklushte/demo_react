@@ -1,0 +1,6 @@
+to create nano-react app
+
+    npx nano-react-app <app_Name>
+
+To install all project dependencies 
+    npm install
